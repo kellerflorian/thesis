@@ -14,4 +14,6 @@ lots of plots
 
 ## Bibliography
 
+[1] important
+[2] paper2
 ## Appendix
