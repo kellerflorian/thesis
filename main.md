@@ -16,5 +16,6 @@ lots of plots
 
 [1] important
 [2] paper2
+[3] paper3
 ## Appendix
 Thank you to everyone
